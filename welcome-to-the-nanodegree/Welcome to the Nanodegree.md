@@ -8,13 +8,13 @@
   - [x]Nanodegree Orientation `0/11`
       - [Introduction](#introduction)
       - [Projects and Progress](#projects-and-progress)
-      - [Quiz: Career Development Oppertunities](#quiz:-career-development-oppertunities)
+      - [Quiz: Career Development Oppertunities](#quiz-career-development-oppertunities)
       - [Connecting with your community](#connecting-with-your-community)
       - [Support from the Udacity Team](#support-from-the-udacity-team)
       - [How Does Project Submission Work?](#how-does-project-submission-work?)
       - [Quiz: Integrity And Mindset](#quiz-integrity-and-mindset)
       - [What If I Want To Move Faster?](#what-if-i-want-to-move-faster?)
-      - [Quiz: How Do I Find Time For My Nanodegree?](#quiz:-how-do-i-find-time-for-my-nanodegree?)
+      - [Quiz: How Do I Find Time For My Nanodegree?](#quiz-how-do-i-find-time-for-my-nanodegree?)
       - [Final Tips](#final-tips)
       - [Wrapping Up](#wrapping-up)
 
@@ -61,7 +61,7 @@
 - So repeat till understanding.
 - You can submit your project many times as you want.
 
-<a name='quiz:-integrity-and-mindset'></a>
+<a name='quiz-integrity-and-mindset'></a>
 ## Quiz: Integrity And Mindset
 ![](./pics/honor-code.png)
 
@@ -69,7 +69,7 @@
 ## What If I Want To Move Faster?
 - Don't mind.
 
-<a name='quiz:-how-do-i-find-time-for-my-nanodegree?'></a>
+<a name='quiz-how-do-i-find-time-for-my-nanodegree?'></a>
 ## Quiz: How Do I Find Time For My Nanodegree?
 ![](./pics/how-do-i-find-time-for-my-nanodegree.png)
 
