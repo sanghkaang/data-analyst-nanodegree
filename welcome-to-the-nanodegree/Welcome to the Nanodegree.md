@@ -12,7 +12,7 @@
       - [Connecting with your community](#connecting-with-your-community)
       - [Support from the Udacity Team](#support-from-the-udacity-team)
       - [How Does Project Submission Work?](#how-does-project-submission-work?)
-      - [Quiz: Integrity And Mindset](#quiz:-integrity-and-mindset)
+      - [Quiz: Integrity And Mindset](#quiz-integrity-and-mindset)
       - [What If I Want To Move Faster?](#what-if-i-want-to-move-faster?)
       - [Quiz: How Do I Find Time For My Nanodegree?](#quiz:-how-do-i-find-time-for-my-nanodegree?)
       - [Final Tips](#final-tips)
@@ -29,7 +29,7 @@
 - project, lecture, career, etc.
 - You can get massive changes within a few months.
     
-<a name='quiz:-career-development-oppertunities'></a>
+<a name='quiz-career-development-oppertunities'></a>
 ## Quiz: Career Development Oppertunities
 ![](./pics/quiz-career.png)
 
